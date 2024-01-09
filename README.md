@@ -7,7 +7,7 @@
 # navigate to the server folder and use "npm run" command to run backend
 
 # API Endpoints
-http://localhost:3000 --- landing page where have both login and signup options
+* http://localhost:3000 --- landing page where have both login and signup options
 http://localhost:3000/api/auth/login -- login route
 http://localhost:3000/api/auth/register -- register route
 
