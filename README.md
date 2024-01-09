@@ -8,14 +8,14 @@
 
 # API Endpoints
 * http://localhost:3000 --- landing page where have both login and signup options
-http://localhost:3000/api/auth/login -- login route
-http://localhost:3000/api/auth/register -- register route
+* http://localhost:3000/api/auth/login -- login route
+* http://localhost:3000/api/auth/register -- register route
 
-http://localhost:3000/api/feedback/addfeedback -- to add new feedback
-http://localhost:3000/api/feedback/getfeedback -- to get feedback of an autenticated user
-http://localhost:3000/api/feedback/getfeedback/:id -- to get feedback of an id for authenticated user
-http://localhost:3000/api/feedback/:id -- to update feedback of an authenticated user
-http://localhost:3000/api/feedback/:id -- to delete feedback of an authenticates user
+* http://localhost:3000/api/feedback/addfeedback -- to add new feedback
+* http://localhost:3000/api/feedback/getfeedback -- to get feedback of an autenticated user
+* http://localhost:3000/api/feedback/getfeedback/:id -- to get feedback of an id for authenticated user
+* http://localhost:3000/api/feedback/:id -- to update feedback of an authenticated user
+* http://localhost:3000/api/feedback/:id -- to delete feedback of an authenticates user
 
 
 
